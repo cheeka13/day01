@@ -1,9 +1,5 @@
 # Ngày 1 — Nền Tảng LLM API
 
-**Chương 1 | Ngày 1 trong 15**
-
----
-
 ## Mục Tiêu
 
 Học cách gọi OpenAI API, hiểu các tham số sinh text quan trọng, so sánh GPT-4o và GPT-4o-mini, xây dựng chatbot streaming có lịch sử hội thoại.
